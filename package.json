@@ -1,7 +1,7 @@
 {
   "type": "module",
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=24.0.0"
   },
   "scripts": {
     "backup:code-local": "tsx backups/src/local-backup.ts",
